@@ -1,7 +1,7 @@
 class Dog
   
   
-  def attributes
+  def initialize(hash)
     
   end
   
